@@ -11,3 +11,6 @@ The rest should be obvious.
 
 ## Who made this?
 [Rin did](https://twitter.com/lostkagamine).
+
+## License?
+The main project is licensed as MIT. The font specifically (Roboto-Regular.ttf) is licensed under Apache.
